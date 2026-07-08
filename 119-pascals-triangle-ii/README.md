@@ -20,6 +20,8 @@
 	<li><code>0 &lt;= rowIndex &lt;= 33</code></li>
 </ul>
 
+
+
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Could you optimize your algorithm to use only <code>O(rowIndex)</code> extra space ?</p>
    
