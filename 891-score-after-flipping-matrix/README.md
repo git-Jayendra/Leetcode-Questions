@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/score-after-flipping-matrix">Score After Flipping Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> binary matrix <code>grid</code>.</p>
+ <h2><a href="https://leetcode.com/problems/score-after-flipping-matrix">Score After Flipping Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> binary matrix <code>grid</code>.</p>
 
 <p>A <strong>move</strong> consists of choosing any row or column and toggling each value in that row or column (i.e., changing all <code>0</code>&#39;s to <code>1</code>&#39;s, and all <code>1</code>&#39;s to <code>0</code>&#39;s).</p>
 
