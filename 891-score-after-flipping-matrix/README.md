@@ -21,7 +21,7 @@
 <strong>Input:</strong> grid = [[0]]
 <strong>Output:</strong> 1
 </pre>
-
+ 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
